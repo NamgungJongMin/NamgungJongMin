@@ -3,7 +3,9 @@
 </div>
 
 <h2 align="center">
-✋Developers Conquering Alice's Rabbit Hole!✋
+  ✋ Hello, World!
+<p align="center">
+I'm the developers Conquering Alice's Rabbit Hole!
 
 <br>
 <br>
