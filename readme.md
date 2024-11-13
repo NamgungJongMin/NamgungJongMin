@@ -4,5 +4,8 @@
 🖥️ Developers Conquering Alice's Rabbit Hole 🖥️
 <p align="center">
 
-## Github Stats
+<br>
+
 ![NamgungJongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamgungJongMin)
+
+:cloud: SNS :cloud: <br>
