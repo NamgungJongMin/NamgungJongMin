@@ -1,11 +1,13 @@
-<img width="100%" height="300px" src="https://private-user-images.githubusercontent.com/100336573/385580042-fa826dff-b19d-4338-8d35-1744135581ac.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzE0NzQyNzEsIm5iZiI6MTczMTQ3Mzk3MSwicGF0aCI6Ii8xMDAzMzY1NzMvMzg1NTgwMDQyLWZhODI2ZGZmLWIxOWQtNDMzOC04ZDM1LTE3NDQxMzU1ODFhYy5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQxMTEzJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MTExM1QwNDU5MzFaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT00NDQ1MDg0YmExMDgzNGM3M2IwNGNiYWY1M2MwZjYxZTI0YmRlYzY2YTcwMDdmYzRhMGFiZmFiZWRjNTkxMmVhJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.RjrDbvK95lHs2IcjKMKCU18V1Tw5mCWw4sRg-gy28VM"/>
+
+<img width="100%" height="300px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRybnZzcXpjcDhic3N3eGZmbWp1bnBjZmozdW50d3N2YndiN2cyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif"/>
+
 <h2 align="center">
 ✋Developers Conquering Alice's Rabbit Hole!✋
 
 <br>
 <br>
 
-![NamgungJongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgungjongmin\&show_icons=true&theme=transparent)
+![NamgungJongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgungjongmin\&show_icons=true&theme=shadow_green)
 
 <h4 align="center">
   
