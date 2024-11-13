@@ -1,5 +1,6 @@
-
-<img width="100%" height="300px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXRybnZzcXpjcDhic3N3eGZmbWp1bnBjZmozdW50d3N2YndiN2cyeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/eHQ5BsgBIBIGI/giphy.gif"/>
+<div align="center">
+<img width="90%" height="200px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGg4NHB2MXY2ZTBwZXNhYXljdGZjMHlhbGc2OHdxam9yZ3VpY2VyOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NKEt9elQ5cR68/giphy.gif"/>
+</div>
 
 <h2 align="center">
 ✋Developers Conquering Alice's Rabbit Hole!✋
@@ -7,7 +8,7 @@
 <br>
 <br>
 
-![NamgungJongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgungjongmin\&show_icons=true&theme=shadow_green)
+![NamgungJongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgungjongmin\&show_icons=true&theme=ambient_gradient)
 
 <h4 align="center">
   
