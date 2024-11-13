@@ -37,3 +37,14 @@
 ![styledcomponents](https://img.shields.io/badge/styledcomponents-DB7093.svg?&style=for-the-badge&logo=styledcomponents&logoColor=white)
 ![chakraui](https://img.shields.io/badge/chakraui-319795.svg?&style=for-the-badge&logo=chakraui&logoColor=white)
 ![storybook](https://img.shields.io/badge/storybook-FF4785.svg?&style=for-the-badge&logo=storybook&logoColor=white)
+
+---
+
+🔍 Latest Project 🔍
+
+<a href="https://github.com/NamgungJongMin/TripVote-FE">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamgungJongMin&repo=TripVote-FE&theme=slateorange" />
+</a>
+<a href="https://github.com/NamgungJongMin/STAYINN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamgungJongMin&repo=STAYINN&theme=slateorange" />
+</a>
