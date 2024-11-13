@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="300px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNlem1yMHBjZnRmNm5nejF3N2JpNmR6ZDV5ZHRxbXBtc3RjdTRuNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ttknk7M3d3UBEeZsii/giphy.gif"/>
+<img width="100%" height="250px" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYm5sbHYydmRhbDA4YzA4ZzB3Mzg3dnc4eWE4eHNyYXJlb2dqNGJubyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CcwLAV11cALh3OuEJ5/giphy.gif"/>
 </div>
 
 <h2 align="center">
@@ -8,7 +8,7 @@
 <br>
 <br>
 
-![NamgungJongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgungjongmin\&show_icons=true&theme=ambient_gradient)
+![NamgungJongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgungjongmin\&show_icons=true&theme=codeSTACKr)
 
 <h4 align="center">
   
