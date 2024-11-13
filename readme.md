@@ -8,4 +8,8 @@
 
 ![NamgungJongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamgungJongMin)
 
-:cloud: SNS :cloud: <br>
+:cloud: SNS :cloud: 
+<br>
+
+<a href="https://namgungjongmin.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-white.svg?logo=github&logoColor=black&style=flat&link=https://namgungjongmin.github.io/"/></a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](jmnamgung@gmail.com)
