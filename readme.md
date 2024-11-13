@@ -45,8 +45,8 @@ I'm the developers Conquering Alice's Rabbit Hole!
 🔍 Latest Project 🔍
 
 <a href="https://github.com/NamgungJongMin/TripVote-FE">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamgungJongMin&repo=TripVote-FE&theme=slateorange" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamgungJongMin&repo=TripVote-FE&theme=gruvbox_light" />
 </a>
 <a href="https://github.com/NamgungJongMin/STAYINN">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamgungJongMin&repo=STAYINN&theme=slateorange" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NamgungJongMin&repo=STAYINN&theme=gruvbox_light" />
 </a>
