@@ -5,7 +5,7 @@
 <br>
 <br>
 
-![NamgungJongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=NamgungJongMin)
+![NamgungJongMin's GitHub stats](https://github-readme-stats.vercel.app/api?username=namgungjongmin\&show_icons=true)
 
 <h4 align="center">
   
