@@ -9,7 +9,7 @@
 
 <h4 align="center">
   
-:cloud: SNS :cloud: 
+:cloud: Learn More :cloud: 
 <br>
 
 <a href="https://namgungjongmin.github.io/" target="_blank"><img src="https://img.shields.io/badge/Blog-white.svg?logo=github&logoColor=black&style=flat&link=https://namgungjongmin.github.io/"/></a>
