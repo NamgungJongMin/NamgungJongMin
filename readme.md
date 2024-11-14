@@ -5,7 +5,7 @@
 <h2 align="center">
   ✋ Hello, World!
 <p align="center">
-I'm the developers digging Alice's Rabbit Hole
+I'm the developers digging The Alice's Rabbit Hole
 
 <br>
 <br>
