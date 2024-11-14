@@ -32,6 +32,7 @@ I'm the developers digging The Alice's Rabbit Hole
 ![Jest](https://img.shields.io/badge/jest-C21325.svg?&style=for-the-badge&logo=jest&logoColor=white)
 
 ![React](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white)
+![Vite](https://img.shields.io/badge/vite-46CFF.svg?&style=for-the-badge&logo=vite&logoColor=white)
 ![Next.js](https://img.shields.io/badge/next.js-000000.svg?&style=for-the-badge&logo=Next.js&logoColor=white)
 ![electron](https://img.shields.io/badge/electron-47848F.svg?&style=for-the-badge&logo=electron&logoColor=white)
 
