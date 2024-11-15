@@ -1,5 +1,5 @@
 <div align="center">
-<img width="100%" height="150px" src="https://mybox.naver.com/#/photo/all/viewer/3472591224824839256:9827168?time=1731675378045"/>
+<img width="100%" height="150px" src="https://drive.google.com/uc?export=view&id=12HJqTEIvMXmzV7eWIoVXUae8_OoRpfkq"/>
 </div>
 
 <h2 align="center">
